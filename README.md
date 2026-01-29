@@ -13,7 +13,7 @@ CPR Rhythm helps you maintain the correct rhythm (110 BPM) during chest compress
 
 - **Questions?** Use [Discussions](https://github.com/jasperkimmel/CPRRhythm/discussions/categories/q-a)
 - **Bug report?** Open an [Issue](https://github.com/jasperkimmel/CPRRhythm/issues)
-- **Feature request?** Share in [Discussions](https://github.com/jasperkimmel/CPRRhythm/discussions)
+- **Feature request?** Share in [Discussions](https://github.com/jasperkimmel/CPRRhythm/discussions/categories/ideas)
 
 ## ⚠️ Important Disclaimer
 
