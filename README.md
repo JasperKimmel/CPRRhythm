@@ -15,13 +15,15 @@ CPR Rhythm helps you maintain the correct rhythm (110 BPM) during chest compress
 - **Questions?** Use [Discussions](https://github.com/jasperkimmel/CPRRhythm/discussions/categories/q-a)
 - **Feature request?** Share in [Discussions](https://github.com/jasperkimmel/CPRRhythm/discussions/categories/ideas)
 
+> To prevent my support system from beging abused by spammers, getting support requires you to have a GitHub account. 
+
 ## ⚠️ Important Disclaimer
 
 This app is a training aid. Always call emergency services first and use proper CPR training.
 
 ## ☕ Support Development
 
-If you find this app helpful, you can [buy me a coffee](https://buymeacoffee.com/jouwusername)!
+If you find this app helpful, you can [buy me a coffee](https://buymeacoffee.com/jouwusername) or [donate via PayPal](https://paypal.me/jasperkimmel)!
 
 ## 📄 License
 
