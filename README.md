@@ -4,10 +4,21 @@ Welcome! This is the official support repository for **CPR Rhythm**, a free Appl
 
 ## 📱 About the App
 
-CPR Rhythm helps you maintain the correct rhythm (110 BPM) during chest compressions with:
-- Haptic feedback on Apple Watch
-- Visual progress tracking
-- Breathing alerts after 30 compressions
+**CPR Rhythm** provides haptic rhythm guidance to help maintain the recommended chest compression tempo during cardiopulmonary resuscitation (CPR).
+
+**Key Features**
+
+* Designed for Apple Watch for hands-free use
+* Haptic guidance for CPR compression tempo at **110 compressions per minute**
+* Clear visual BPM reference
+* Breathing alerts after 30 compressions
+* Minimal, distraction-free interface
+* Multilingual support:
+  * English
+  * Dutch
+
+> [!CAUTION]
+> CPR Rhythm is intended as an assistive tool only. Always call emergency services first. It does **not** provide medical diagnosis, treatment, or instructions, and does **not** replace formal CPR training or professional medical care. Always follow official resuscitation guidelines and local emergency protocols.
 
 ## 💬 Support & Discussions
 
@@ -16,10 +27,6 @@ CPR Rhythm helps you maintain the correct rhythm (110 BPM) during chest compress
 - **Feature request?** Share in [Discussions](https://github.com/jasperkimmel/CPRRhythm/discussions/categories/ideas)
 
 > To prevent my support system from beging abused by spammers, getting support requires you to have a GitHub account. 
-
-## ⚠️ Important Disclaimer
-
-This app is a training aid. Always call emergency services first and use proper CPR training.
 
 ## ☕ Support Development
 
