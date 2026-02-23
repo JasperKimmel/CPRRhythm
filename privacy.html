@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy — CPR Rhythm</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --red: #D0021B;
+      --dark: #0A0A0A;
+      --mid: #1C1C1C;
+      --grey: #6B6B6B;
+      --white: #FFFFFF;
+    }
+
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: var(--dark);
+      color: var(--white);
+      min-height: 100vh;
+    }
+
+    header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      padding: 1.5rem 2.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: rgba(10,10,10,0.85);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+
+    .logo {
+      font-family: 'DM Serif Display', serif;
+      font-size: 1.25rem;
+      color: var(--white);
+      text-decoration: none;
+    }
+    .logo span { color: var(--red); }
+
+    nav a {
+      color: var(--grey);
+      text-decoration: none;
+      font-size: 0.875rem;
+      margin-left: 2rem;
+      transition: color 0.2s;
+    }
+    nav a:hover { color: var(--white); }
+
+    main {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 10rem 2.5rem 6rem;
+    }
+
+    .page-eyebrow {
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--red);
+      margin-bottom: 1rem;
+    }
+
+    h1 {
+      font-family: 'DM Serif Display', serif;
+      font-size: clamp(2.5rem, 5vw, 4rem);
+      line-height: 1.1;
+      margin-bottom: 0.75rem;
+    }
+
+    .last-updated {
+      font-size: 0.8rem;
+      color: var(--grey);
+      margin-bottom: 4rem;
+    }
+
+    .divider {
+      border: none;
+      border-top: 1px solid rgba(255,255,255,0.08);
+      margin: 3rem 0;
+    }
+
+    h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 1.4rem;
+      margin-bottom: 1rem;
+      color: var(--white);
+    }
+
+    p {
+      font-size: 0.9375rem;
+      color: rgba(255,255,255,0.55);
+      line-height: 1.8;
+      font-weight: 300;
+      margin-bottom: 1rem;
+    }
+
+    p strong {
+      color: rgba(255,255,255,0.85);
+      font-weight: 500;
+    }
+
+    .highlight-box {
+      border: 1px solid rgba(208,2,27,0.25);
+      padding: 1.75rem;
+      margin: 3rem 0;
+      position: relative;
+    }
+
+    .highlight-box::before {
+      content: 'SUMMARY';
+      position: absolute;
+      top: -0.6rem;
+      left: 1.5rem;
+      background: var(--dark);
+      padding: 0 0.75rem;
+      font-size: 0.65rem;
+      letter-spacing: 0.2em;
+      color: var(--red);
+      font-weight: 500;
+    }
+
+    .highlight-box p {
+      margin-bottom: 0;
+      font-size: 0.9rem;
+    }
+
+    footer {
+      border-top: 1px solid rgba(255,255,255,0.06);
+      padding: 2rem 2.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    footer p { font-size: 0.8rem; color: var(--grey); margin: 0; }
+    footer nav a { color: var(--grey); text-decoration: none; font-size: 0.8rem; margin-left: 1.5rem; transition: color 0.2s; }
+    footer nav a:hover { color: var(--white); }
+
+    @media (max-width: 768px) {
+      header { padding: 1.25rem 1.5rem; }
+      main { padding: 8rem 1.5rem 4rem; }
+      footer { padding: 1.5rem; flex-direction: column; align-items: flex-start; }
+      footer nav a:first-child { margin-left: 0; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <a href="index.html" class="logo">CPR <span>Rhythm</span></a>
+    <nav>
+      <a href="support.html">Support</a>
+      <a href="privacy.html">Privacy</a>
+    </nav>
+  </header>
+
+  <main>
+    <p class="page-eyebrow">Legal</p>
+    <h1>Privacy Policy</h1>
+    <p class="last-updated">Last updated: February 2025</p>
+
+    <div class="highlight-box">
+      <p>CPR Rhythm does not collect, share, or sell any personal data. The only data stored by the app is your personal settings, which remain entirely on your device.</p>
+    </div>
+
+    <h2>Who we are</h2>
+    <p>CPR Rhythm is an Apple Watch application developed by <strong>Jasper Kimmel</strong>. This privacy policy explains how the app handles your data.</p>
+
+    <hr class="divider" />
+
+    <h2>Data we collect</h2>
+    <p>CPR Rhythm collects <strong>no personal data</strong>. We do not collect your name, email address, location, health data, or any other identifying information.</p>
+    <p>The only data the app stores are your <strong>in-app settings and preferences</strong> (such as language preferences). This data is stored locally on your device only and is never transmitted to any server or third party.</p>
+
+    <hr class="divider" />
+
+    <h2>Third-party services</h2>
+    <p>CPR Rhythm does not use any third-party analytics, advertising, or tracking services. No data is shared with any third party.</p>
+
+    <hr class="divider" />
+
+    <h2>Apple's data practices</h2>
+    <p>CPR Rhythm is distributed via the Apple App Store and TestFlight. Apple may collect certain usage and diagnostic data in accordance with their own privacy policy. This data is handled entirely by Apple and is not accessible to the developer. Please refer to <strong>Apple's Privacy Policy</strong> at apple.com/privacy for more information.</p>
+
+    <hr class="divider" />
+
+    <h2>Children's privacy</h2>
+    <p>CPR Rhythm does not knowingly collect any data from children. As the app collects no personal data at all, it is safe for users of all ages.</p>
+
+    <hr class="divider" />
+
+    <h2>Changes to this policy</h2>
+    <p>If this privacy policy changes in the future, the updated version will be posted on this page with a revised date. We encourage you to review this page periodically.</p>
+
+    <hr class="divider" />
+
+    <h2>Contact</h2>
+    <p>If you have any questions about this privacy policy, please contact us via the <a href="support.html" style="color: var(--red); text-decoration: none;">support page</a>.</p>
+  </main>
+
+  <footer>
+    <p>© 2025 Jasper Kimmel</p>
+    <nav>
+      <a href="privacy.html">Privacy Policy</a>
+      <a href="support.html">Support</a>
+    </nav>
+  </footer>
+
+</body>
+</html>
